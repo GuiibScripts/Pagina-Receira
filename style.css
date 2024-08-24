@@ -61,3 +61,14 @@ h1, h2 {
     color: #291B1A;
 
 }
+
+footer {
+    color: #363118;
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
